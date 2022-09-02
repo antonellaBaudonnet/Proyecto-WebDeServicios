@@ -1,0 +1,10 @@
+footer {
+    border-top: 1px;
+    background-color: rgb(197, 194, 3);
+}
+#carouselExampleIndicators, .carousel-inner{
+    height: 450px;
+}
+.navbar-nav{
+    width: 100%;
+}
