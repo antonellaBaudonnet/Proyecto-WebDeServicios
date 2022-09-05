@@ -1,17 +1,28 @@
 footer {
     border-top: 1px;
-    background-color: rgb(197, 194, 3);
+    background-color: #ffc107;
 }
-#carouselExampleIndicators, .carousel-inner{
+
+#carouselExampleIndicators,
+.carousel-inner {
     height: 450px;
 }
-.navbar-nav{
+
+.navbar-nav {
     width: 100%;
 }
-.nav-item  {
+
+.nav-item {
     margin-right: 10px;
 }
-.textoCentrado{
+
+.textoCentrado {
     text-align: center;
     margin: 50px;
 }
+/* 
+.columna {
+    background: red;
+    display: -webkit-box;
+    flex-direction: column;
+    /* justify-content: center; */
