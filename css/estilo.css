@@ -8,3 +8,10 @@ footer {
 .navbar-nav{
     width: 100%;
 }
+.nav-item  {
+    margin-right: 10px;
+}
+.textoCentrado{
+    text-align: center;
+    margin: 50px;
+}
