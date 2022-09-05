@@ -26,3 +26,7 @@ footer {
     display: -webkit-box;
     flex-direction: column;
     /* justify-content: center; */
+
+body {
+    background-color: rgb(213, 233, 179);
+}
