@@ -30,3 +30,7 @@ footer {
 body {
     background-color: rgb(213, 233, 179);
 }
+
+footer {
+    margin-top: 20px;
+}
